@@ -3,6 +3,8 @@ Hi! I'm Chris, a CS student at Oregon State.
 I'm passionate about backend and full stack development.
 I recently completed a software engineering internship at SailPoint, where I was working in backend development. 
 
+I'm currently working on a personal website and a grocery store tracker project. 
+
 I'm looking for software engineering internships next summer to expand my knowledge!
 
 <!--
