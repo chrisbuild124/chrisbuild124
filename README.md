@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi! I'm Chris, a CS student at Oregon State.
+
+I'm passionate about backend and full stack development.
+I recently completed a software engineering internship at SailPoint, where I was working in backend development. 
+
+I'm looking for software engineering internships next summer to expand my knowledge!
 
 <!--
 **chrisbuild124/chrisbuild124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
