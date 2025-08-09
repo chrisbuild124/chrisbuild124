@@ -16,7 +16,6 @@ Worked on backend development, contributing to scalable and secure identity solu
 
 I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
 
-- 💼 LinkedIn: [Chris Sexton LinkedIn](https://www.linkedin.com/in/christopher-sexton-1071/)
 - 📧 Email: sextonch@oregonstate.edu
 
 <!--
