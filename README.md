@@ -1,11 +1,39 @@
-Hi! I'm Chris, a CS student at Oregon State.
+# 👋 Hi, I'm Chris!
 
-I'm passionate about backend and full stack development.
-I recently completed a software engineering internship at SailPoint, where I was working in backend development. 
+🎓 I'm a Computer Science student at Oregon State University passionate about **backend** and **full stack development**.
 
-I'm currently working on a personal website and a grocery store tracker project. 
+---
 
-I'm looking for software engineering internships next summer to expand my knowledge!
+## 💼 Recent Experience
+
+🔧 **Software Engineering Intern @ SailPoint**  
+Worked on backend development, contributing to scalable and secure identity solutions.
+
+---
+
+## 🚀 Current Projects
+
+- 🌐 Personal Website – A portfolio to showcase my work and skills *(link coming soon!)*
+- 🛒 Grocery Store Tracker – A tool to help users manage shopping more efficiently *(in progress)*
+
+---
+
+## 🎯 Goals
+
+I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
+
+---
+
+## 📫 Let's Connect!
+
+- 📍 Location: Indianapolis, IN
+- 💼 LinkedIn: linkedin.com/in/yourprofile
+- 📧 Email: your.email@example.com
+
+---
+
+!GitHub Stats
+
 
 <!--
 **chrisbuild124/chrisbuild124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
