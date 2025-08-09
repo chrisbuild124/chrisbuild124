@@ -16,7 +16,7 @@ Worked on backend development, contributing to scalable and secure identity solu
 
 I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
 
-- 📧 Email: sextonch@oregonstate.edu
+- Email: sextonch@oregonstate.edu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbuild124&layout=compact&theme=radical)  
 
