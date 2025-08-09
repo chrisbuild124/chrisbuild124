@@ -7,20 +7,14 @@
 🔧 **Software Engineering Intern @ SailPoint**  
 Worked on backend development, contributing to scalable and secure identity solutions.
 
----
-
 ### Current Projects
 
 - 🌐 Personal Website – A portfolio to showcase my work and skills *(link coming soon)*
 - 🛒 Grocery Store Tracker – A tool to help users manage shopping more efficiently *(in progress)*
 
----
-
 ### Goals
 
 I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
-
----
 
 - 💼 LinkedIn: [Chris Sexton LinkedIn](https://www.linkedin.com/in/christopher-sexton-1071/)
 - 📧 Email: sextonch@oregonstate.edu
