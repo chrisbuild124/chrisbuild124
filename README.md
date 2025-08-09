@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris!
+# Hi, I'm Chris !
 
 🎓 I'm a Computer Science student at Oregon State University passionate about **backend** and **full stack development**.
 
@@ -11,29 +11,21 @@ Worked on backend development, contributing to scalable and secure identity solu
 
 ---
 
-## 🚀 Current Projects
+# Current Projects
 
 - 🌐 Personal Website – A portfolio to showcase my work and skills *(link coming soon!)*
 - 🛒 Grocery Store Tracker – A tool to help users manage shopping more efficiently *(in progress)*
 
 ---
 
-## 🎯 Goals
+# Goals
 
 I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
 
 ---
 
-## 📫 Let's Connect!
-
-- 📍 Location: Indianapolis, IN
-- 💼 LinkedIn: linkedin.com/in/yourprofile
-- 📧 Email: your.email@example.com
-
----
-
-!GitHub Stats
-
+- 💼 LinkedIn: [Chris Sexton LinkedIn](https://www.linkedin.com/in/christopher-sexton-1071/)
+- 📧 Email: sextonch@oregonstate.edu
 
 <!--
 **chrisbuild124/chrisbuild124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
