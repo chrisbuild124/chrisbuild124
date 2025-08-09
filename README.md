@@ -1,24 +1,24 @@
-# Hi, I'm Chris !
+## Hi, I'm Chris !
 
 🎓 I'm a Computer Science student at Oregon State University passionate about **backend** and **full stack development**.
 
 ---
 
-## 💼 Recent Experience
+### 💼 Recent Experience
 
 🔧 **Software Engineering Intern @ SailPoint**  
 Worked on backend development, contributing to scalable and secure identity solutions.
 
 ---
 
-# Current Projects
+### Current Projects
 
 - 🌐 Personal Website – A portfolio to showcase my work and skills *(link coming soon!)*
 - 🛒 Grocery Store Tracker – A tool to help users manage shopping more efficiently *(in progress)*
 
 ---
 
-# Goals
+### Goals
 
 I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
 
