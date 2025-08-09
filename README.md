@@ -18,7 +18,7 @@ I'm currently seeking **Software Engineering Internships for Summer 2026** to co
 
 - 📧 Email: sextonch@oregonstate.edu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbuildit21&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbuild124&layout=compact&theme=radical)  
 
 
 <!--
