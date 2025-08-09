@@ -13,7 +13,7 @@ Worked on backend development, contributing to scalable and secure identity solu
 
 ### Current Projects
 
-- 🌐 Personal Website – A portfolio to showcase my work and skills *(link coming soon!)*
+- 🌐 Personal Website – A portfolio to showcase my work and skills *(link coming soon)*
 - 🛒 Grocery Store Tracker – A tool to help users manage shopping more efficiently *(in progress)*
 
 ---
