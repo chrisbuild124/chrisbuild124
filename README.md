@@ -2,8 +2,6 @@
 
 🎓 I'm a Computer Science student at Oregon State University passionate about **backend** and **full stack development**.
 
---
-
 ### 💼 Recent Experience
 
 🔧 **Software Engineering Intern @ SailPoint**  
