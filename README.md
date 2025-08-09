@@ -4,7 +4,7 @@
 
 ### 💼 Recent Experience
 
-🔧 **Software Engineering Intern @ SailPoint**  
+🔧 **Software Engineering Intern @ [SailPoint](https://www.sailpoint.com/)**  
 Worked on backend development, contributing to scalable and secure identity solutions.
 
 ### Current Projects
@@ -18,6 +18,7 @@ I'm currently seeking **Software Engineering Internships for Summer 2026** to co
 
 - 📧 Email: sextonch@oregonstate.edu
 
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisbuild124&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbuild124&layout=compact&theme=radical)  
 
 
