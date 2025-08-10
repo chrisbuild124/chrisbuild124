@@ -5,7 +5,7 @@
 ### 💼 Recent Experience
 
 🔧 **Software Engineering Intern @ [SailPoint](https://www.sailpoint.com/)**  
-Worked on backend development, contributing to scalable and secure identity solutions.
+Worked on backend development, creating a MVP for the team and the company. 
 
 ### Current Projects
 
