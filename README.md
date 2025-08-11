@@ -4,7 +4,7 @@
 
 ### 💼 Recent Experience
 
-🔧 **Software Engineering Intern @ [SailPoint](https://www.sailpoint.com/)** Summer 2025
+🔧 **Software Engineering Intern @ [SailPoint](https://www.sailpoint.com/) - Summer 2025**
 Developed a MVP for SailPoint to monitor new features being rolled out from 500+ million data points and configured an alert service when new features are correlated with errors per release version, resulting in 50% reduction of debugging and monitoring time for the on call engineers at SailPoint. 
 
 ### Current Projects
