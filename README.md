@@ -19,6 +19,7 @@ Developed a MVP for SailPoint to monitor new features being rolled out from 500+
 
 ### Goals
 
+My dream is to work in either backend of fullstack development upon graduation. 
 I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
 
 - Email: sextonch@oregonstate.edu
