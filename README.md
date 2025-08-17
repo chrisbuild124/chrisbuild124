@@ -9,7 +9,7 @@ Developed a MVP for SailPoint to monitor new features being rolled out from 500+
 
 ### Current Projects
 
-- 🌐 Personal Website – A portfolio to showcase my work and skills *(link coming soon)*
+- 🌐 Personal Website – A portfolio to showcase my work *(in progress)*
 - 🛒 Grocery Store Tracker – A tool to help users manage shopping more efficiently. *(in progress)*
   My plan:
   - Use APIs such as Kroger to track prices in (almost real) time. Cache the results in a database.
