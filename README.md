@@ -1,21 +1,20 @@
 ## Hi, I'm Chris !
 
-🎓 I'm a Computer Science student at Oregon State University passionate about **backend** and **full stack development**.
+I'm a Computer Science student at Oregon State University 🎓 and I'm passionate about **backend** and **full stack development**.
 
-### 💼 Recent Experience
+### Upcoming Experience
 
-🔧 **Software Engineering Intern @ [SailPoint](https://www.sailpoint.com/)**
-- Developed a MVP for SailPoint to monitor new feature flags being rolled out from 500+ million data points and configured an alert service when new features are correlated with errors per release version, resulting in 50% reduction of debugging and monitoring time for the on call engineers at SailPoint. 
+**Software Engineer Co-op @ [Curriculum Associates](https://www.curriculumassociates.com/)**
+
+### Recent Professional Experience
+
+- **Teaching Assistant @ Oregon State University**
+- **Software Engineering Intern @ [SailPoint](https://www.sailpoint.com/)** 
 
 ### Current Projects
 
-- 🌐 Personal Website – A portfolio to showcase my work *(in progress)*
-- 🛒 Grocery Store Tracker – A tool to help users manage shopping more efficiently. *(in progress)*
-  - My plan:
-    - Use APIs such as Kroger to track prices in (almost real) time. Cache the results in a database.
-    - Find the cheapest option for the selection. Give suggestions using machine learning.
-    - Develop an order history and suggested items list on the application.
-    - Utilize maps API (such as google maps) to also give directions to store locations within a certain radius. 
+- A cost of living comparison checker using python and flask *(in progress)*
+- A backtracing comparison between certain stocks *(in progress)*
 
 ### Goals
 
