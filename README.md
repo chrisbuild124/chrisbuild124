@@ -4,12 +4,13 @@ I'm a Computer Science student at Oregon State University 🎓 and I'm passionat
 
 ### Upcoming Experience
 
-**Software Engineer Co-op @ [Curriculum Associates](https://www.curriculumassociates.com/)**
+- **Software Engineering Intern Summer 2026 @ [SailPoint](https://www.sailpoint.com/)** 
+- **Software Engineer Co-op Spring 2026 @ [Curriculum Associates](https://www.curriculumassociates.com/)**
 
 ### Recent Professional Experience
 
-- **Teaching Assistant @ Oregon State University**
-- **Software Engineering Intern @ [SailPoint](https://www.sailpoint.com/)** 
+- **Teaching Assistant Fall 2025 @ Oregon State University**
+- **Software Engineering Intern Summer 2025 @ [SailPoint](https://www.sailpoint.com/)** 
 
 ### Current Projects
 
@@ -19,7 +20,7 @@ I'm a Computer Science student at Oregon State University 🎓 and I'm passionat
 ### Goals
 
 My dream is to work in either backend of fullstack development upon graduation. 
-I'm currently seeking **Software Engineering Internships for Summer 2026** to continue growing as a developer and work on impactful projects.
+I'm currently seeking **Software Engineering Internships for Fall 2026** to continue growing as a developer and work on impactful projects.
 
 - Email: sextonch@oregonstate.edu
 
