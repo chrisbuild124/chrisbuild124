@@ -15,7 +15,7 @@ I'm a Computer Science student at Oregon State University 🎓 and I'm passionat
 ### Current Projects
 
 - A cost of living comparison checker using python and flask *(in progress)*
-- A backtracing comparison between certain stocks *(in progress)*
+- A backtesting comparison between certain stocks, incorporating machine learning modules *(in progress)*
 
 ### Goals
 
