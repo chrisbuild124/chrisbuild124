@@ -1,4 +1,4 @@
-## Hi, Chris here !
+## Hi visitor, Chris here !
 
 I'm a Computer Science student at Oregon State University (Go Beavs!) and I am currently a Software Engineer Co-op at @ [Curriculum Associates](https://www.curriculumassociates.com/). I'm passionate about **backend** and **full stack development**. 
 
