@@ -1,25 +1,26 @@
-## Hi, I'm Chris !
+## Hi, Chris here !
 
-I'm a Computer Science student at Oregon State University 🎓 and I'm passionate about **backend** and **full stack development**.
+I'm a Computer Science student at Oregon State University (Go Beavs!) and I'm passionate about **backend** and **full stack development**.
 
 ### Upcoming Experience
 
-- **Software Engineering Intern Summer 2026 @ [SailPoint](https://www.sailpoint.com/)** 
-- **Software Engineer Co-op Spring 2026 @ [Curriculum Associates](https://www.curriculumassociates.com/)**
+- Software Engineering Intern *(Summer 2026)* @ [SailPoint](https://www.sailpoint.com/)
+- Software Engineer Co-op *(Spring 2026)* @ [Curriculum Associates](https://www.curriculumassociates.com/)
 
 ### Recent Professional Experience
 
-- **Teaching Assistant Fall 2025 @ Oregon State University**
-- **Software Engineering Intern Summer 2025 @ [SailPoint](https://www.sailpoint.com/)** 
+- Teaching Assistant *(Fall 2025)* @ Oregon State University
+- Software Engineering Intern *(Summer 2025)* @ [SailPoint](https://www.sailpoint.com/)
 
 ### Current Projects
 
-- A cost of living comparison checker using python and flask *(in progress)*
-- A backtesting comparison between certain stocks, incorporating machine learning modules *(in progress)*
+- 🏋️ A calorie tracker that authenticates user's using Auth0 & JWT coookies in the backend *(in progress)*
+- 💵 A cost of living comparison checker using python and flask *(in progress)*
+- ✨ Feel free to look around on the other cool projects I'm involved in!
 
 ### Goals
 
-My dream is to work in either backend of fullstack development upon graduation. 
+I really want to work in either backend of fullstack development upon graduation as a Software Engineer! 
 I'm currently seeking **Software Engineering Internships for Fall 2026** to continue growing as a developer and work on impactful projects.
 
 - Email: sextonch@oregonstate.edu
