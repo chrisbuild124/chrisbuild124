@@ -18,8 +18,7 @@ I'm a Computer Science student at Oregon State University (Go Beavs!) and I am c
 - ✨ Feel free to look around on the other cool projects I'm involved in!
 
 ### Goals
-
-I want to work in either backend of fullstack development upon graduation as a Software Engineer! 
+I want to work in either backend of fullstack development upon graduation as a Software Engineer! <br>
 I'm currently seeking **Software Engineering Internships for Fall 2026** to continue growing as a developer and work on impactful projects.
 
 - Email: sextonch@oregonstate.edu
