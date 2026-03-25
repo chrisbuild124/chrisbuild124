@@ -23,5 +23,4 @@ Hey there, I'm Chris, a CS student at Oregon State University. <br> I build full
 - Comprehensive algorithm & pattern repository with tracked solutions & walkthroughs of over 90 different design examples
 - [Project Repo](https://github.com/chrisbuild124/CS-Fundamentals-Algorithms) -->
 
-### Goals
-Seeking **Software Engineering Internships (Fall 2026)** and **New Grad SWE roles (Spring 2027)**. Feel free to contact me at sextonch@oregonstate.edu
+Feel free to contact me at sextonch@oregonstate.edu
