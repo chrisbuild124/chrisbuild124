@@ -17,6 +17,7 @@ Hey there, I'm Chris, a CS student at Oregon State University. <br> I build full
 - Built a backend calorie tracking system with Python, Flask, Redis, and MySQL.
 - Implemented Auth0 authentication via JWT tokens, session caching, and integrated OpenAI API for intelligent nutrition calculations.
 - Developed front-end integration using HTML, CSS, and JS.
+- Looking to scale and bring in users in the future. 
 - [Project Repo](https://github.com/chrisbuild124/AI-Nutrition-Tracker)
 
 <!-- #### Algorithm & Data Structures Practice Repository
