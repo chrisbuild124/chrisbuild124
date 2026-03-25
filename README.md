@@ -1,27 +1,33 @@
-## Hi visitor !
+## Welcome to my GitHub!
 
-My name is Chris, I'm a Computer Science student at Oregon State University (Go Beavs!) and I am currently a Software Engineer Co-op at @ [Curriculum Associates](https://www.curriculumassociates.com/). I'm passionate about **backend** and **full stack development**. 
+Hey there, I'm Chris, a CS student at Oregon State University and a Software Engineer Co-op at [Curriculum Associates](https://www.curriculumassociates.com/).  
+I build full-stack & backend applications with a focus in Python, Flask, Java, Spring, MySQL, and Redis.
 
 <!-- ### Upcoming Experience -->
 
 <!-- - Software Engineering Intern *(Summer 2026)* @ [SailPoint](https://www.sailpoint.com/) -->
 
-### Recent Professional Experience
-
-- Teaching Assistant *(Fall 2025)* @ Oregon State University
-- Software Engineering Intern *(Summer 2025)* @ [SailPoint](https://www.sailpoint.com/)
-
+### Recent Experience
+- **Software Engineer Intern** *(Summer 2025)* @ [SailPoint](https://www.sailpoint.com/) – Tech: Grafana, Prometheus, Honeycomb, AWS, LaunchDarkly 
+- **Teaching Assistant** *(Fall 2025)* @ Oregon State University – Tech: Python, Git
+  
 ### Current Projects
 
-- 🏋️ A calorie tracker that authenticates user's using Auth0 & JWT coookies in the backend *([in progress](https://github.com/chrisbuild124/AI-Nutrition-Tracker))*
-- ✨ Feel free to look around on the other cool projects I'm involved in!
+#### AI-Powered Nutrition Tracker
+- Built a backend calorie tracking system with Python, Flask, Redis, and MySQL
+- Implemented Auth0 authentication via JWT tokens, session caching, and integrated OpenAI API for intelligent nutrition calculations
+- Developed front-end integration using HTML, CSS, and JS
+- [Project Repo](https://github.com/chrisbuild124/AI-Nutrition-Tracker)
+
+#### Algorithm & Data Structures Practice Repository
+- Comprehensive algorithm & pattern repository with tracked solutions & walkthroughs of over 90 different design examples
+- [Project Repo](https://github.com/chrisbuild124/CS-Fundamentals-Algorithms)
 
 ### Goals
-I want to work in either backend of fullstack development upon graduation as a Software Engineer! <br>
-I'm currently seeking **Software Engineering Internships for Fall 2026** and **Software Engineering Entry Roles for Spring 2027** to continue growing as a developer and work on impactful projects.
+Seeking **Software Engineering Internships (Fall 2026)** and **New Grad SWE roles (Spring 2027)**
 
+### Contact
 - Email: sextonch@oregonstate.edu
-
 
 <!--
 **chrisbuild124/chrisbuild124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
