@@ -13,13 +13,12 @@ My name is Chris, I'm a Computer Science student at Oregon State University (Go 
 
 ### Current Projects
 
-- 🏋️ A calorie tracker that authenticates user's using Auth0 & JWT coookies in the backend *(in progress)*
-- 💵 A cost of living comparison checker using python and flask *(in progress)*
+- 🏋️ A calorie tracker that authenticates user's using Auth0 & JWT coookies in the backend *([in progress](https://github.com/chrisbuild124/AI-Nutrition-Tracker))*
 - ✨ Feel free to look around on the other cool projects I'm involved in!
 
 ### Goals
 I want to work in either backend of fullstack development upon graduation as a Software Engineer! <br>
-I'm currently seeking **Software Engineering Internships for Fall 2026** to continue growing as a developer and work on impactful projects.
+I'm currently seeking **Software Engineering Internships for Fall 2026** and **Software Engineering Entry Roles for Spring 2027** to continue growing as a developer and work on impactful projects.
 
 - Email: sextonch@oregonstate.edu
 
