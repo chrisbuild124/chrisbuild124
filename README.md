@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-Hey there, I'm Chris, a CS student at Oregon State University. <br> I build full-stack & backend applications with a focus in Python, Flask, Java, Spring, MySQL, and Redis.
+Hey there, I'm Chris, a CS student at Oregon State University. <br> I love building full-stack & backend applications with a focus in Python, Flask, Java, Spring, MySQL, and Redis.
 
 <!-- a Software Engineer Co-op at [Curriculum Associates](https://www.curriculumassociates.com/). -->
 
